@@ -1,0 +1,641 @@
+,n,v
+0,Tangential Force,0.0
+0,Feed Force,0.0
+0,Radial Force,0.0
+0,X-Component,0.0
+0,Y-Component,0.0
+1,Tangential Force,0.0
+1,Feed Force,0.0
+1,Radial Force,0.0
+1,X-Component,0.0
+1,Y-Component,0.0
+2,Tangential Force,0.0
+2,Feed Force,0.0
+2,Radial Force,0.0
+2,X-Component,0.0
+2,Y-Component,0.0
+3,Tangential Force,217.6
+3,Feed Force,-55.02
+3,Radial Force,130.767
+3,X-Component,53.56399999999999
+3,Y-Component,131.37300000000002
+4,Tangential Force,102.4
+4,Feed Force,-14.817000000000002
+4,Radial Force,65.262
+4,X-Component,35.671
+4,Y-Component,56.625
+5,Tangential Force,12.8
+5,Feed Force,-0.475
+5,Radial Force,8.385
+5,X-Component,5.593
+5,Y-Component,6.263999999999999
+6,Tangential Force,0.0
+6,Feed Force,0.0
+6,Radial Force,0.0
+6,X-Component,0.0
+6,Y-Component,0.0
+7,Tangential Force,374.4
+7,Feed Force,-82.38199999999998
+7,Radial Force,228.99900000000002
+7,X-Component,229.00900000000001
+7,Y-Component,82.353
+8,Tangential Force,374.4
+8,Feed Force,-82.38199999999998
+8,Radial Force,228.99900000000002
+8,X-Component,229.00900000000001
+8,Y-Component,82.353
+9,Tangential Force,374.4
+9,Feed Force,-82.374
+9,Radial Force,229.001
+9,X-Component,229.013
+9,Y-Component,82.345
+10,Tangential Force,374.4
+10,Feed Force,-82.374
+10,Radial Force,229.001
+10,X-Component,229.013
+10,Y-Component,82.345
+11,Tangential Force,0.0
+11,Feed Force,0.0
+11,Radial Force,0.0
+11,X-Component,0.0
+11,Y-Component,0.0
+12,Tangential Force,0.0
+12,Feed Force,0.0
+12,Radial Force,0.0
+12,X-Component,0.0
+12,Y-Component,0.0
+13,Tangential Force,0.0
+13,Feed Force,0.0
+13,Radial Force,0.0
+13,X-Component,0.0
+13,Y-Component,0.0
+14,Tangential Force,0.0
+14,Feed Force,0.0
+14,Radial Force,0.0
+14,X-Component,0.0
+14,Y-Component,0.0
+15,Tangential Force,0.0
+15,Feed Force,0.0
+15,Radial Force,0.0
+15,X-Component,0.0
+15,Y-Component,0.0
+16,Tangential Force,0.0
+16,Feed Force,0.0
+16,Radial Force,0.0
+16,X-Component,0.0
+16,Y-Component,0.0
+17,Tangential Force,0.0
+17,Feed Force,0.0
+17,Radial Force,0.0
+17,X-Component,0.0
+17,Y-Component,0.0
+18,Tangential Force,0.0
+18,Feed Force,0.0
+18,Radial Force,0.0
+18,X-Component,0.0
+18,Y-Component,0.0
+19,Tangential Force,0.0
+19,Feed Force,0.0
+19,Radial Force,0.0
+19,X-Component,0.0
+19,Y-Component,0.0
+20,Tangential Force,0.0
+20,Feed Force,0.0
+20,Radial Force,0.0
+20,X-Component,0.0
+20,Y-Component,0.0
+21,Tangential Force,76.80000000000003
+21,Feed Force,-6.455
+21,Radial Force,-49.88800000000001
+21,X-Component,6.455
+21,Y-Component,49.88800000000001
+22,Tangential Force,76.80000000000003
+22,Feed Force,-6.455
+22,Radial Force,-49.88800000000001
+22,X-Component,6.455
+22,Y-Component,49.88800000000001
+23,Tangential Force,76.80000000000003
+23,Feed Force,-6.455
+23,Radial Force,-49.88800000000001
+23,X-Component,6.455
+23,Y-Component,49.88800000000001
+24,Tangential Force,76.80000000000003
+24,Feed Force,-6.455
+24,Radial Force,-49.88800000000001
+24,X-Component,6.455
+24,Y-Component,49.88800000000001
+25,Tangential Force,76.80000000000003
+25,Feed Force,-6.455
+25,Radial Force,-49.88800000000001
+25,X-Component,6.455
+25,Y-Component,49.88800000000001
+26,Tangential Force,1865.6
+26,Feed Force,-1010.569
+26,Radial Force,436.44000000000005
+26,X-Component,-619.3280000000002
+26,Y-Component,910.0319999999997
+27,Tangential Force,2700.7999999999993
+27,Feed Force,-1437.6629999999993
+27,Radial Force,122.53500000000014
+27,X-Component,-1148.1359999999995
+27,Y-Component,873.8809999999997
+28,Tangential Force,460.79999999999984
+28,Feed Force,-147.817
+28,Radial Force,257.09000000000003
+28,X-Component,12.971999999999998
+28,Y-Component,296.26899999999995
+29,Tangential Force,0.0
+29,Feed Force,0.0
+29,Radial Force,0.0
+29,X-Component,0.0
+29,Y-Component,0.0
+30,Tangential Force,0.0
+30,Feed Force,0.0
+30,Radial Force,0.0
+30,X-Component,0.0
+30,Y-Component,0.0
+31,Tangential Force,307.2000000000001
+31,Feed Force,-81.468
+31,Radial Force,-181.675
+31,X-Component,81.468
+31,Y-Component,181.675
+32,Tangential Force,307.2000000000001
+32,Feed Force,-81.46300000000001
+32,Radial Force,-181.676
+32,X-Component,81.46300000000001
+32,Y-Component,181.676
+33,Tangential Force,307.2000000000001
+33,Feed Force,-81.46300000000001
+33,Radial Force,-181.676
+33,X-Component,81.46300000000001
+33,Y-Component,181.676
+34,Tangential Force,307.2000000000001
+34,Feed Force,-81.468
+34,Radial Force,-181.675
+34,X-Component,81.468
+34,Y-Component,181.675
+35,Tangential Force,307.2000000000001
+35,Feed Force,-81.46300000000001
+35,Radial Force,-181.676
+35,X-Component,81.46300000000001
+35,Y-Component,181.676
+36,Tangential Force,0.0
+36,Feed Force,0.0
+36,Radial Force,0.0
+36,X-Component,0.0
+36,Y-Component,0.0
+37,Tangential Force,0.0
+37,Feed Force,0.0
+37,Radial Force,0.0
+37,X-Component,0.0
+37,Y-Component,0.0
+38,Tangential Force,0.0
+38,Feed Force,0.0
+38,Radial Force,0.0
+38,X-Component,0.0
+38,Y-Component,0.0
+39,Tangential Force,0.0
+39,Feed Force,0.0
+39,Radial Force,0.0
+39,X-Component,0.0
+39,Y-Component,0.0
+40,Tangential Force,0.0
+40,Feed Force,0.0
+40,Radial Force,0.0
+40,X-Component,0.0
+40,Y-Component,0.0
+41,Tangential Force,284.8
+41,Feed Force,-100.564
+41,Radial Force,156.265
+41,X-Component,39.389
+41,Y-Component,181.605
+42,Tangential Force,284.8
+42,Feed Force,-78.26300000000002
+42,Radial Force,167.77200000000002
+42,X-Component,63.29599999999999
+42,Y-Component,173.97400000000005
+43,Tangential Force,201.6
+43,Feed Force,-42.417
+43,Radial Force,124.14899999999996
+43,X-Component,57.797
+43,Y-Component,117.78100000000002
+44,Tangential Force,105.6
+44,Feed Force,-15.581
+44,Radial Force,67.21799999999999
+44,X-Component,36.514
+44,Y-Component,58.548
+45,Tangential Force,0.0
+45,Feed Force,0.0
+45,Radial Force,0.0
+45,X-Component,0.0
+45,Y-Component,0.0
+46,Tangential Force,0.0
+46,Feed Force,0.0
+46,Radial Force,0.0
+46,X-Component,0.0
+46,Y-Component,0.0
+47,Tangential Force,0.0
+47,Feed Force,0.0
+47,Radial Force,0.0
+47,X-Component,0.0
+47,Y-Component,0.0
+48,Tangential Force,0.0
+48,Feed Force,0.0
+48,Radial Force,0.0
+48,X-Component,0.0
+48,Y-Component,0.0
+49,Tangential Force,0.0
+49,Feed Force,0.0
+49,Radial Force,0.0
+49,X-Component,0.0
+49,Y-Component,0.0
+50,Tangential Force,521.6
+50,Feed Force,-136.47799999999998
+50,Radial Force,308.9539999999999
+50,X-Component,308.975
+50,Y-Component,136.43600000000004
+51,Tangential Force,521.6
+51,Feed Force,-136.486
+51,Radial Force,308.95199999999994
+51,X-Component,308.971
+51,Y-Component,136.44400000000002
+52,Tangential Force,521.6
+52,Feed Force,-136.47799999999998
+52,Radial Force,308.9539999999999
+52,X-Component,308.975
+52,Y-Component,136.43600000000004
+53,Tangential Force,524.8
+53,Feed Force,-137.782
+53,Radial Force,310.59899999999993
+53,X-Component,310.621
+53,Y-Component,137.74100000000004
+54,Tangential Force,0.0
+54,Feed Force,0.0
+54,Radial Force,0.0
+54,X-Component,0.0
+54,Y-Component,0.0
+55,Tangential Force,0.0
+55,Feed Force,0.0
+55,Radial Force,0.0
+55,X-Component,0.0
+55,Y-Component,0.0
+56,Tangential Force,0.0
+56,Feed Force,0.0
+56,Radial Force,0.0
+56,X-Component,0.0
+56,Y-Component,0.0
+57,Tangential Force,0.0
+57,Feed Force,0.0
+57,Radial Force,0.0
+57,X-Component,0.0
+57,Y-Component,0.0
+58,Tangential Force,0.0
+58,Feed Force,0.0
+58,Radial Force,0.0
+58,X-Component,0.0
+58,Y-Component,0.0
+59,Tangential Force,0.0
+59,Feed Force,0.0
+59,Radial Force,0.0
+59,X-Component,0.0
+59,Y-Component,0.0
+60,Tangential Force,0.0
+60,Feed Force,0.0
+60,Radial Force,0.0
+60,X-Component,0.0
+60,Y-Component,0.0
+61,Tangential Force,0.0
+61,Feed Force,0.0
+61,Radial Force,0.0
+61,X-Component,0.0
+61,Y-Component,0.0
+62,Tangential Force,0.0
+62,Feed Force,0.0
+62,Radial Force,0.0
+62,X-Component,0.0
+62,Y-Component,0.0
+63,Tangential Force,0.0
+63,Feed Force,0.0
+63,Radial Force,0.0
+63,X-Component,0.0
+63,Y-Component,0.0
+64,Tangential Force,243.2
+64,Feed Force,-40.109
+64,Radial Force,-153.565
+64,X-Component,40.109
+64,Y-Component,153.565
+65,Tangential Force,243.2
+65,Feed Force,-40.109
+65,Radial Force,-153.565
+65,X-Component,40.109
+65,Y-Component,153.565
+66,Tangential Force,243.2
+66,Feed Force,-40.109
+66,Radial Force,-153.565
+66,X-Component,40.109
+66,Y-Component,153.565
+67,Tangential Force,243.2
+67,Feed Force,-40.109
+67,Radial Force,-153.565
+67,X-Component,40.109
+67,Y-Component,153.565
+68,Tangential Force,243.2
+68,Feed Force,-40.109
+68,Radial Force,-153.565
+68,X-Component,40.109
+68,Y-Component,153.565
+69,Tangential Force,1968.0
+69,Feed Force,-1073.0729999999996
+69,Radial Force,419.93300000000005
+69,X-Component,-665.7390000000001
+69,Y-Component,940.5479999999997
+70,Tangential Force,2716.7999999999984
+70,Feed Force,-1444.3419999999994
+70,Radial Force,115.774
+70,X-Component,-1143.0739999999996
+70,Y-Component,890.4639999999997
+71,Tangential Force,780.8000000000002
+71,Feed Force,-318.288
+71,Radial Force,379.35800000000006
+71,X-Component,-57.44500000000002
+71,Y-Component,491.85399999999987
+72,Tangential Force,0.0
+72,Feed Force,0.0
+72,Radial Force,0.0
+72,X-Component,0.0
+72,Y-Component,0.0
+73,Tangential Force,0.0
+73,Feed Force,0.0
+73,Radial Force,0.0
+73,X-Component,0.0
+73,Y-Component,0.0
+74,Tangential Force,400.00000000000017
+74,Feed Force,-120.505
+74,Radial Force,-228.375
+74,X-Component,120.505
+74,Y-Component,228.375
+75,Tangential Force,400.00000000000017
+75,Feed Force,-120.505
+75,Radial Force,-228.375
+75,X-Component,120.505
+75,Y-Component,228.375
+76,Tangential Force,400.00000000000017
+76,Feed Force,-120.505
+76,Radial Force,-228.375
+76,X-Component,120.505
+76,Y-Component,228.375
+77,Tangential Force,400.00000000000017
+77,Feed Force,-120.505
+77,Radial Force,-228.375
+77,X-Component,120.505
+77,Y-Component,228.375
+78,Tangential Force,400.00000000000017
+78,Feed Force,-120.505
+78,Radial Force,-228.375
+78,X-Component,120.505
+78,Y-Component,228.375
+79,Tangential Force,0.0
+79,Feed Force,0.0
+79,Radial Force,0.0
+79,X-Component,0.0
+79,Y-Component,0.0
+80,Tangential Force,0.0
+80,Feed Force,0.0
+80,Radial Force,0.0
+80,X-Component,0.0
+80,Y-Component,0.0
+81,Tangential Force,0.0
+81,Feed Force,0.0
+81,Radial Force,0.0
+81,X-Component,0.0
+81,Y-Component,0.0
+82,Tangential Force,0.0
+82,Feed Force,0.0
+82,Radial Force,0.0
+82,X-Component,0.0
+82,Y-Component,0.0
+83,Tangential Force,0.0
+83,Feed Force,0.0
+83,Radial Force,0.0
+83,X-Component,0.0
+83,Y-Component,0.0
+84,Tangential Force,0.0
+84,Feed Force,0.0
+84,Radial Force,0.0
+84,X-Component,0.0
+84,Y-Component,0.0
+85,Tangential Force,182.4
+85,Feed Force,-79.01100000000002
+85,Radial Force,89.51700000000001
+85,X-Component,7.43
+85,Y-Component,119.168
+86,Tangential Force,406.39999999999986
+86,Feed Force,-140.91500000000005
+86,Radial Force,222.65200000000002
+86,X-Component,57.799
+86,Y-Component,257.08000000000004
+87,Tangential Force,329.6
+87,Feed Force,-90.734
+87,Radial Force,193.19000000000003
+87,X-Component,72.45100000000001
+87,Y-Component,200.76400000000007
+88,Tangential Force,224.0
+88,Feed Force,-49.85999999999999
+88,Radial Force,136.82600000000002
+88,X-Component,61.498000000000005
+88,Y-Component,132.00700000000003
+89,Tangential Force,137.59999999999997
+89,Feed Force,-23.503999999999994
+89,Radial Force,86.66399999999996
+89,X-Component,44.663
+89,Y-Component,77.90100000000001
+90,Tangential Force,0.0
+90,Feed Force,0.0
+90,Radial Force,0.0
+90,X-Component,0.0
+90,Y-Component,0.0
+91,Tangential Force,0.0
+91,Feed Force,0.0
+91,Radial Force,0.0
+91,X-Component,0.0
+91,Y-Component,0.0
+92,Tangential Force,0.0
+92,Feed Force,0.0
+92,Radial Force,0.0
+92,X-Component,0.0
+92,Y-Component,0.0
+93,Tangential Force,0.0
+93,Feed Force,0.0
+93,Radial Force,0.0
+93,X-Component,0.0
+93,Y-Component,0.0
+94,Tangential Force,0.0
+94,Feed Force,0.0
+94,Radial Force,0.0
+94,X-Component,0.0
+94,Y-Component,0.0
+95,Tangential Force,672.0
+95,Feed Force,-199.781
+95,Radial Force,384.61099999999993
+95,X-Component,384.63999999999993
+95,Y-Component,199.72900000000004
+96,Tangential Force,672.0
+96,Feed Force,-199.781
+96,Radial Force,384.61099999999993
+96,X-Component,384.63999999999993
+96,Y-Component,199.72900000000004
+97,Tangential Force,672.0
+97,Feed Force,-199.789
+97,Radial Force,384.60899999999987
+97,X-Component,384.636
+97,Y-Component,199.737
+98,Tangential Force,675.1999999999998
+98,Feed Force,-201.24
+98,Radial Force,386.12199999999984
+98,X-Component,386.14999999999986
+98,Y-Component,201.18800000000005
+99,Tangential Force,0.0
+99,Feed Force,0.0
+99,Radial Force,0.0
+99,X-Component,0.0
+99,Y-Component,0.0
+100,Tangential Force,0.0
+100,Feed Force,0.0
+100,Radial Force,0.0
+100,X-Component,0.0
+100,Y-Component,0.0
+101,Tangential Force,0.0
+101,Feed Force,0.0
+101,Radial Force,0.0
+101,X-Component,0.0
+101,Y-Component,0.0
+102,Tangential Force,0.0
+102,Feed Force,0.0
+102,Radial Force,0.0
+102,X-Component,0.0
+102,Y-Component,0.0
+103,Tangential Force,0.0
+103,Feed Force,0.0
+103,Radial Force,0.0
+103,X-Component,0.0
+103,Y-Component,0.0
+104,Tangential Force,0.0
+104,Feed Force,0.0
+104,Radial Force,0.0
+104,X-Component,0.0
+104,Y-Component,0.0
+105,Tangential Force,0.0
+105,Feed Force,0.0
+105,Radial Force,0.0
+105,X-Component,0.0
+105,Y-Component,0.0
+106,Tangential Force,0.0
+106,Feed Force,0.0
+106,Radial Force,0.0
+106,X-Component,0.0
+106,Y-Component,0.0
+107,Tangential Force,0.0
+107,Feed Force,0.0
+107,Radial Force,0.0
+107,X-Component,0.0
+107,Y-Component,0.0
+108,Tangential Force,0.0
+108,Feed Force,0.0
+108,Radial Force,0.0
+108,X-Component,0.0
+108,Y-Component,0.0
+109,Tangential Force,0.0
+109,Feed Force,0.0
+109,Radial Force,0.0
+109,X-Component,0.0
+109,Y-Component,0.0
+110,Tangential Force,406.4
+110,Feed Force,-88.85199999999998
+110,Radial Force,-248.81599999999997
+110,X-Component,88.85199999999998
+110,Y-Component,248.81599999999997
+111,Tangential Force,406.4
+111,Feed Force,-88.85199999999998
+111,Radial Force,-248.81599999999997
+111,X-Component,88.85199999999998
+111,Y-Component,248.81599999999997
+112,Tangential Force,406.4
+112,Feed Force,-88.85199999999998
+112,Radial Force,-248.81599999999997
+112,X-Component,88.85199999999998
+112,Y-Component,248.81599999999997
+113,Tangential Force,406.4
+113,Feed Force,-88.85199999999998
+113,Radial Force,-248.81599999999997
+113,X-Component,88.85199999999998
+113,Y-Component,248.81599999999997
+114,Tangential Force,406.4
+114,Feed Force,-88.85199999999998
+114,Radial Force,-248.81599999999997
+114,X-Component,88.85199999999998
+114,Y-Component,248.81599999999997
+115,Tangential Force,2028.8
+115,Feed Force,-1109.4260000000004
+115,Radial Force,402.804
+115,X-Component,-688.6030000000001
+115,Y-Component,958.5969999999996
+116,Tangential Force,2751.999999999998
+116,Feed Force,-1453.9209999999996
+116,Radial Force,93.91399999999987
+116,X-Component,-1147.3159999999998
+116,Y-Component,897.9859999999999
+117,Tangential Force,1222.4000000000005
+117,Feed Force,-572.555
+117,Radial Force,446.78400000000005
+117,X-Component,-220.561
+117,Y-Component,691.9449999999998
+118,Tangential Force,80.00000000000001
+118,Feed Force,-10.122000000000002
+118,Radial Force,51.34500000000001
+118,X-Component,20.615
+118,Y-Component,48.1
+119,Tangential Force,0.0
+119,Feed Force,0.0
+119,Radial Force,0.0
+119,X-Component,0.0
+119,Y-Component,0.0
+120,Tangential Force,492.80000000000007
+120,Feed Force,-163.86299999999997
+120,Radial Force,-271.10400000000004
+120,X-Component,163.86299999999997
+120,Y-Component,271.10400000000004
+121,Tangential Force,492.80000000000007
+121,Feed Force,-163.86299999999997
+121,Radial Force,-271.10400000000004
+121,X-Component,163.86299999999997
+121,Y-Component,271.10400000000004
+122,Tangential Force,492.80000000000007
+122,Feed Force,-163.86299999999997
+122,Radial Force,-271.10400000000004
+122,X-Component,163.86299999999997
+122,Y-Component,271.10400000000004
+123,Tangential Force,492.80000000000007
+123,Feed Force,-163.86299999999997
+123,Radial Force,-271.10400000000004
+123,X-Component,163.86299999999997
+123,Y-Component,271.10400000000004
+124,Tangential Force,492.80000000000007
+124,Feed Force,-163.86799999999997
+124,Radial Force,-271.10299999999995
+124,X-Component,163.86799999999997
+124,Y-Component,271.10299999999995
+125,Tangential Force,0.0
+125,Feed Force,0.0
+125,Radial Force,0.0
+125,X-Component,0.0
+125,Y-Component,0.0
+126,Tangential Force,0.0
+126,Feed Force,0.0
+126,Radial Force,0.0
+126,X-Component,0.0
+126,Y-Component,0.0
+127,Tangential Force,0.0
+127,Feed Force,0.0
+127,Radial Force,0.0
+127,X-Component,0.0
+127,Y-Component,0.0
